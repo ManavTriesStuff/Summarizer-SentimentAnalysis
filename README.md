@@ -1,6 +1,6 @@
 # Summarizer-SentimentAnalysis
 A news summarizer mini-program which returns concise details about valid URLs, including Title, author and summary.
-It also performs a basic sentiment analysis on the article.
+It also performs a basic sentiment analysis on the article. Guided by a tutorial I found on Youtube!
 
 -------------------------------------------------------------
 
